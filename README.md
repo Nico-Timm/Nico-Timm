@@ -1,10 +1,12 @@
 ## Hi there I'm Nico 👋
 
-* Undergraduate
+* 📖 Undergraduate
 
-# Technologies & Tools
+# 🛠 Technologies & Tools
 
 * 🌱 I’m currently learning Git
+
+
 <!--
 **Nico-Timm/Nico-Timm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
