@@ -4,7 +4,6 @@
 
 My name is Nico. I'm a Undergraduate 📖 
 
-![alt text](https://img.freepik.com/free-vector/hand-drawn-sloth-cartoon-animal-illustration_23-2150415417.jpg?semt=ais_hybrid&w=100)
 * 🌱 I’m currently learning Git
 
 # 🛠 Technologies & Tools
