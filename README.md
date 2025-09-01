@@ -4,7 +4,7 @@
 
 My name is Nico. I'm a Undergraduate 📖 
 
-* 🌱 I’m currently learning HTTP
+* 🌱 I’m currently learning Unit-Tests
 
 # 🛠 Technologies & Tools
 
