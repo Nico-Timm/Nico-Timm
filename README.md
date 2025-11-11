@@ -4,7 +4,7 @@
 
 My name is Nico. I'm a Undergraduate 📖 
 
-* 🌱 I’m currently learning NestJS
+* 🌱 I’m currently learning Angular
 
 # 🛠 Technologies & Tools
 
