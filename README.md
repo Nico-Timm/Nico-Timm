@@ -15,5 +15,3 @@ My name is Nico. I'm a Undergraduate 📖
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-# Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-Timm&show_icons=true)
